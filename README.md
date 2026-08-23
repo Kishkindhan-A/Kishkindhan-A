@@ -300,16 +300,20 @@ I'm always interested in:
 
 <p align="center">
 
-<a href="YOUR_LINKEDIN_URL">
-<img src="www.linkedin.com/in/kishkindhan-a-614143302">
+<a href="www.linkedin.com/in/kishkindhan-a-614143302">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=whit" alt="LinkedIn"/>
 </a>
 
 <a href="YOUR_PORTFOLIO_URL">
-<img src="">
+<img src="https://img.shields.io/badge/Portfolio-Visit-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
-<img src="kishkindhanawork@gmail.com">
+<a href="kishkindhanawork@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+
+<a href="https://github.com/Kishkindhan-A">
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
 </p>
@@ -317,9 +321,9 @@ I'm always interested in:
 ---
 
 <p align="center">
-  <b>⭐ Thanks for visiting my profile!</b>
+  ⭐ <b>Thanks for visiting my profile!</b>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" width="100%"/>
+  <i>Let's build something amazing together 🚀</i>
 </p>
