@@ -248,18 +248,18 @@ I'm also interested in:
 
 ---
 
-# 🔥 GitHub Streak
+# 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Kishkindhan-A&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kishkindhan-A&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
 </p>
 
 ---
 
-# 🐍 Contribution Animation
+# 🐍 Contribution Graph
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation" />
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" width="100%" alt="GitHub Contribution Snake"/>
 </p>
 
 ---
