@@ -300,7 +300,7 @@ I'm always interested in:
 
 <p align="center">
 
-<a href="www.linkedin.com/in/kishkindhan-a-614143302">
+<a href="https://www.linkedin.com/in/kishkindhan-a-614143302/">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=whit" alt="LinkedIn"/>
 </a>
 
